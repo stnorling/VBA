@@ -1,4 +1,4 @@
 # VBA
-Workbooks made when learning VBA using trumpexcel with included notes in the workbooks for guidance 
+Workbooks made when learning VBA using trumpexcel. Notes included in the workbooks for guidance .
 
 https://trumpexcel.com/excel-vba/
